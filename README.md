@@ -218,3 +218,11 @@ For questions, issues, or support:
 ---
 
 **Happy Analyzing! 📸✨**
+
+
+<img width="215" height="500" alt="Screenshot_2026-09-05-03-18-55-012_com android chrome" src="https://github.com/user-attachments/assets/b30d46e7-20d1-40e6-94b7-173f5cfd0bec" />
+
+<img width="215" height="500" alt="Screenshot_2026-09-05-03-19-28-251_com android chrome" src="https://github.com/user-attachments/assets/f43d78cb-853d-46e2-a709-15d67907fa38" />
+
+<img width="215" height="500" alt="Screenshot_2026-09-05-03-19-48-788_com android chrome" src="https://github.com/user-attachments/assets/9fda7021-91db-4eac-bc14-5af1c0573453" />
+
