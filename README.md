@@ -2,6 +2,12 @@
 
 An AI-powered photo analysis application built with TypeScript that leverages Google's Gemini API to intelligently analyze and extract insights from images.
 
+**📚 Documentation Available In:**
+- 🇬🇧 [English](./README.md)
+- 🇻🇳 [Tiếng Việt](./README.vi.md)
+
+---
+
 <div align="center">
   <img width="1200" height="475" alt="Photo-Analysic Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
